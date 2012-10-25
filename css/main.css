@@ -93,7 +93,9 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-
+html {
+    background-color: red;
+}
 
 
 
