@@ -95,6 +95,9 @@ textarea {
 html {
     background-color: red;
 }
+body {
+    height:100%;
+}
 
 
 
